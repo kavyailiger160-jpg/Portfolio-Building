@@ -1,0 +1,7 @@
+I installed Visual Studio Code for C programming.
+I installed the Microsoft C/C++ extension in VS Code.
+I verified that GCC was available through the terminal.
+I created a C program named hello.c.
+I compiled the program using GCC without errors.
+I executed the program successfully in the VS Code terminal.
+The output displayed was "Hello, World!".
